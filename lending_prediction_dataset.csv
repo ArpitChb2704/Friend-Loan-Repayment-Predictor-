@@ -1,0 +1,1001 @@
+Amount_Lent_INR,Relationship_with_Borrower,Repayment_History,Borrower_Financial_Situation,Social_Trust_Factors,Repayment_Outcome
+15805,Close Friend,Yes,Average,4,Yes
+870,Close Friend,Yes,Poor,4,No
+38168,Family,Yes,Average,10,Yes
+44742,Family,Yes,Good,2,No
+11294,Family,Yes,Average,1,No
+6275,Acquaintance,No,Good,9,No
+16860,Acquaintance,Yes,Good,2,No
+37204,Close Friend,Yes,Poor,8,Yes
+21972,Family,Yes,Good,9,Yes
+47201,Close Friend,Yes,Good,4,Yes
+44141,Close Friend,No,Average,8,No
+16033,Close Friend,Yes,Poor,9,Yes
+41100,Close Friend,Yes,Average,10,No
+1695,Family,Yes,Good,10,Yes
+779,Close Friend,Yes,Average,5,No
+2443,Family,Yes,Good,7,Yes
+5321,Family,Yes,Average,10,Yes
+37829,Acquaintance,No,Poor,4,No
+39198,Family,No,Average,1,Yes
+17578,Acquaintance,Yes,Poor,3,No
+19779,Family,Yes,Good,5,Yes
+28703,Family,Yes,Average,3,Yes
+6406,Family,Yes,Poor,7,Yes
+27490,Acquaintance,Yes,Good,9,Yes
+41444,Acquaintance,Yes,Poor,6,Yes
+25668,Close Friend,Yes,Good,10,Yes
+18952,Acquaintance,Yes,Average,1,No
+18441,Acquaintance,Yes,Poor,7,No
+2757,Acquaintance,Yes,Average,3,Yes
+199,Acquaintance,Yes,Good,5,Yes
+19128,Close Friend,Yes,Average,10,Yes
+35783,Acquaintance,Yes,Average,4,No
+1909,Family,No,Poor,10,Yes
+1277,Family,Yes,Good,5,Yes
+31561,Acquaintance,No,Good,5,Yes
+11404,Acquaintance,Yes,Average,6,Yes
+3566,Family,No,Good,10,Yes
+3900,Family,Yes,Average,10,Yes
+41616,Close Friend,No,Average,6,Yes
+30750,Family,No,Poor,8,Yes
+14512,Family,Yes,Average,8,Yes
+21787,Acquaintance,Yes,Average,9,Yes
+10637,Family,Yes,Good,8,Yes
+8802,Close Friend,Yes,Good,2,Yes
+43333,Family,Yes,Good,10,Yes
+43031,Acquaintance,Yes,Good,1,No
+8443,Acquaintance,Yes,Average,10,Yes
+43011,Family,Yes,Average,2,No
+11026,Acquaintance,No,Average,2,Yes
+23907,Close Friend,Yes,Poor,3,No
+2622,Close Friend,No,Poor,10,No
+23493,Family,Yes,Poor,7,Yes
+48565,Family,Yes,Average,2,No
+17169,Family,Yes,Average,1,Yes
+44984,Acquaintance,Yes,Good,6,Yes
+41004,Close Friend,No,Good,9,Yes
+14551,Close Friend,Yes,Good,3,Yes
+35930,Acquaintance,No,Poor,6,No
+26541,Close Friend,Yes,Poor,3,No
+1595,Family,Yes,Good,1,Yes
+3953,Family,Yes,Good,5,No
+23949,Family,Yes,Poor,10,Yes
+19467,Close Friend,Yes,Good,4,Yes
+1031,Family,Yes,Good,7,Yes
+11663,Acquaintance,Yes,Poor,6,Yes
+43583,Acquaintance,Yes,Good,10,No
+13427,Close Friend,Yes,Good,7,Yes
+40767,Acquaintance,Yes,Average,5,No
+9702,Acquaintance,Yes,Poor,4,No
+45768,Close Friend,Yes,Average,7,No
+6883,Family,Yes,Good,7,Yes
+5685,Family,Yes,Good,6,Yes
+171,Family,Yes,Good,8,Yes
+37075,Close Friend,Yes,Average,4,Yes
+26567,Acquaintance,Yes,Average,10,No
+33773,Family,No,Good,5,Yes
+32616,Family,Yes,Poor,4,No
+11544,Close Friend,Yes,Good,1,Yes
+29137,Family,Yes,Good,8,Yes
+40407,Close Friend,Yes,Good,1,Yes
+25861,Acquaintance,Yes,Good,5,Yes
+1026,Close Friend,Yes,Average,6,Yes
+24263,Close Friend,No,Average,6,Yes
+24286,Close Friend,Yes,Good,5,Yes
+23257,Close Friend,Yes,Average,3,Yes
+24310,Acquaintance,Yes,Good,5,Yes
+8539,Acquaintance,Yes,Average,8,Yes
+17272,Family,Yes,Poor,2,No
+9278,Acquaintance,Yes,Good,6,No
+21281,Acquaintance,Yes,Average,9,No
+12195,Family,No,Good,8,Yes
+21253,Acquaintance,Yes,Good,8,No
+39109,Close Friend,Yes,Good,8,Yes
+8581,Close Friend,Yes,Average,7,No
+39986,Family,Yes,Average,8,Yes
+38054,Family,Yes,Good,6,Yes
+49226,Family,Yes,Poor,2,No
+48994,Close Friend,No,Average,2,Yes
+40784,Acquaintance,No,Poor,8,Yes
+2578,Close Friend,Yes,Average,1,Yes
+2037,Family,No,Average,6,No
+2705,Acquaintance,Yes,Good,6,Yes
+48200,Acquaintance,Yes,Good,4,Yes
+5268,Close Friend,Yes,Poor,10,Yes
+22012,Family,No,Good,3,Yes
+39514,Close Friend,Yes,Poor,3,No
+33169,Acquaintance,Yes,Average,1,No
+13996,Close Friend,Yes,Good,3,Yes
+12676,Close Friend,Yes,Good,4,Yes
+38670,Family,Yes,Good,5,Yes
+3571,Family,Yes,Poor,3,No
+26864,Acquaintance,Yes,Good,6,No
+38962,Close Friend,Yes,Good,5,Yes
+22672,Close Friend,Yes,Good,3,Yes
+8402,Close Friend,Yes,Good,6,Yes
+30545,Acquaintance,Yes,Good,6,Yes
+13077,Acquaintance,Yes,Good,8,Yes
+48043,Family,Yes,Poor,2,No
+23609,Family,Yes,Good,1,No
+35232,Family,Yes,Good,4,Yes
+11847,Close Friend,No,Good,7,No
+14049,Close Friend,Yes,Good,10,Yes
+30828,Family,Yes,Poor,3,No
+19125,Close Friend,Yes,Average,3,No
+10975,Family,Yes,Good,5,No
+24548,Acquaintance,Yes,Average,5,No
+42540,Family,Yes,Good,10,Yes
+5066,Acquaintance,Yes,Good,3,Yes
+32492,Close Friend,Yes,Poor,9,No
+47726,Family,No,Average,4,Yes
+8120,Close Friend,No,Poor,3,No
+13783,Acquaintance,Yes,Good,2,No
+27276,Acquaintance,Yes,Average,10,No
+17422,Acquaintance,No,Good,9,No
+33280,Close Friend,Yes,Good,4,Yes
+6920,Close Friend,Yes,Poor,3,No
+45463,Close Friend,No,Good,7,No
+25456,Close Friend,Yes,Poor,8,Yes
+216,Acquaintance,Yes,Average,2,No
+21528,Acquaintance,No,Good,7,No
+22371,Family,Yes,Average,5,No
+23429,Family,Yes,Average,5,No
+48712,Close Friend,Yes,Good,3,Yes
+41533,Acquaintance,No,Poor,5,Yes
+45161,Acquaintance,No,Average,2,Yes
+22413,Acquaintance,No,Good,4,Yes
+18151,Family,Yes,Average,6,No
+14830,Family,No,Poor,1,No
+40352,Acquaintance,No,Good,10,Yes
+6384,Acquaintance,Yes,Poor,4,No
+1688,Acquaintance,No,Good,6,Yes
+33837,Family,No,Average,9,Yes
+16208,Acquaintance,Yes,Average,2,Yes
+9924,Acquaintance,Yes,Good,7,No
+27900,Close Friend,Yes,Good,6,Yes
+22309,Close Friend,Yes,Average,2,Yes
+43595,Family,Yes,Good,8,Yes
+43699,Acquaintance,Yes,Average,7,Yes
+42567,Acquaintance,No,Good,5,Yes
+49090,Close Friend,No,Poor,5,Yes
+44030,Family,No,Average,7,Yes
+2703,Close Friend,Yes,Poor,9,Yes
+29477,Close Friend,Yes,Good,9,Yes
+29733,Close Friend,Yes,Average,9,Yes
+46709,Close Friend,Yes,Average,6,Yes
+3637,Acquaintance,No,Good,10,No
+25949,Acquaintance,No,Good,6,No
+48935,Close Friend,Yes,Good,3,Yes
+42951,Family,No,Average,1,Yes
+21844,Family,No,Average,7,Yes
+18057,Family,Yes,Good,4,No
+26115,Family,No,Average,1,Yes
+10240,Close Friend,Yes,Good,8,Yes
+15717,Acquaintance,Yes,Good,6,No
+21986,Family,Yes,Poor,6,No
+44272,Close Friend,Yes,Poor,2,No
+23786,Family,Yes,Average,1,Yes
+30090,Family,Yes,Good,2,Yes
+1316,Close Friend,Yes,Average,4,Yes
+6786,Acquaintance,Yes,Good,2,Yes
+27261,Acquaintance,Yes,Good,1,No
+9484,Close Friend,Yes,Good,7,Yes
+40304,Acquaintance,Yes,Average,8,Yes
+21969,Close Friend,Yes,Average,6,Yes
+5540,Close Friend,Yes,Good,4,Yes
+29330,Close Friend,Yes,Average,6,Yes
+3758,Acquaintance,Yes,Poor,3,No
+31978,Close Friend,Yes,Good,8,Yes
+32572,Family,No,Average,10,Yes
+13555,Acquaintance,Yes,Poor,2,No
+673,Acquaintance,Yes,Good,5,Yes
+34776,Acquaintance,No,Good,1,Yes
+8004,Acquaintance,No,Average,6,Yes
+28031,Family,No,Average,2,No
+30313,Acquaintance,No,Poor,4,No
+3314,Acquaintance,Yes,Good,6,Yes
+46586,Close Friend,Yes,Poor,10,Yes
+39363,Acquaintance,Yes,Good,8,No
+17685,Family,Yes,Good,8,Yes
+44427,Family,Yes,Average,6,Yes
+23948,Family,Yes,Good,4,No
+23674,Family,Yes,Good,8,Yes
+1646,Acquaintance,No,Good,8,No
+20090,Acquaintance,No,Good,10,Yes
+27738,Family,Yes,Good,1,Yes
+49860,Family,No,Poor,4,No
+26746,Acquaintance,Yes,Good,4,Yes
+28683,Family,No,Average,7,Yes
+37515,Close Friend,Yes,Average,7,Yes
+47333,Family,No,Poor,8,Yes
+46655,Family,Yes,Good,5,Yes
+864,Close Friend,Yes,Poor,7,Yes
+24558,Close Friend,Yes,Average,8,Yes
+38633,Acquaintance,Yes,Average,9,Yes
+7402,Acquaintance,Yes,Average,3,No
+46727,Close Friend,Yes,Poor,3,No
+21566,Close Friend,Yes,Good,4,Yes
+38569,Acquaintance,Yes,Average,5,Yes
+26319,Family,Yes,Average,10,Yes
+21929,Close Friend,No,Average,1,Yes
+4941,Acquaintance,Yes,Poor,7,Yes
+32980,Family,Yes,Good,9,Yes
+44225,Close Friend,Yes,Poor,8,No
+12698,Family,No,Good,5,Yes
+25352,Acquaintance,Yes,Good,4,No
+37167,Close Friend,No,Good,7,Yes
+2337,Family,No,Good,5,No
+40782,Close Friend,Yes,Average,7,Yes
+40555,Family,Yes,Good,1,Yes
+207,Acquaintance,No,Good,1,Yes
+23519,Acquaintance,No,Poor,10,Yes
+34708,Close Friend,Yes,Poor,3,No
+44552,Family,Yes,Poor,2,No
+15097,Close Friend,No,Poor,2,No
+22681,Close Friend,Yes,Average,7,Yes
+25194,Family,No,Good,10,Yes
+27858,Family,Yes,Good,2,Yes
+42117,Family,Yes,Average,4,No
+20676,Acquaintance,No,Good,2,No
+44367,Close Friend,Yes,Average,6,Yes
+15718,Close Friend,Yes,Good,8,Yes
+26380,Acquaintance,Yes,Good,10,Yes
+49821,Family,Yes,Average,4,Yes
+2821,Acquaintance,Yes,Average,5,No
+47021,Acquaintance,Yes,Average,4,Yes
+6556,Acquaintance,Yes,Average,3,No
+34764,Close Friend,No,Good,5,Yes
+30216,Acquaintance,Yes,Good,9,Yes
+41116,Close Friend,Yes,Poor,8,No
+11421,Close Friend,Yes,Average,8,No
+2921,Close Friend,No,Good,8,Yes
+1744,Family,No,Poor,8,Yes
+18237,Close Friend,Yes,Good,7,Yes
+8690,Close Friend,Yes,Good,8,Yes
+19370,Family,Yes,Good,8,Yes
+18353,Close Friend,No,Average,8,Yes
+5769,Acquaintance,No,Average,10,No
+23088,Acquaintance,Yes,Good,7,Yes
+35163,Close Friend,No,Poor,1,No
+11121,Family,No,Good,4,No
+37514,Acquaintance,Yes,Good,4,Yes
+1812,Family,Yes,Good,5,No
+8165,Family,Yes,Good,10,Yes
+8130,Acquaintance,Yes,Good,6,No
+39394,Family,No,Average,4,Yes
+47035,Acquaintance,Yes,Poor,2,No
+47264,Family,Yes,Average,6,No
+21928,Acquaintance,Yes,Good,8,Yes
+20455,Close Friend,Yes,Good,8,Yes
+30316,Acquaintance,Yes,Good,7,Yes
+16656,Acquaintance,Yes,Good,6,Yes
+46853,Acquaintance,Yes,Average,2,Yes
+31075,Acquaintance,Yes,Good,7,No
+25209,Family,Yes,Average,5,Yes
+41986,Close Friend,Yes,Poor,6,Yes
+16381,Acquaintance,Yes,Good,10,Yes
+11845,Family,Yes,Poor,8,Yes
+45946,Close Friend,Yes,Average,8,Yes
+2059,Close Friend,Yes,Average,3,Yes
+31626,Close Friend,Yes,Average,7,No
+38201,Close Friend,Yes,Good,1,Yes
+47367,Acquaintance,No,Good,1,No
+20942,Acquaintance,Yes,Good,7,No
+29865,Family,Yes,Good,10,Yes
+7168,Family,No,Average,9,Yes
+43026,Family,Yes,Good,7,Yes
+7410,Close Friend,Yes,Poor,10,Yes
+42652,Close Friend,No,Average,5,Yes
+15161,Acquaintance,No,Good,8,Yes
+1164,Close Friend,Yes,Good,2,Yes
+4509,Close Friend,Yes,Poor,9,Yes
+6305,Close Friend,Yes,Poor,6,Yes
+12193,Family,Yes,Average,9,Yes
+29309,Family,Yes,Good,2,Yes
+12884,Acquaintance,Yes,Good,3,Yes
+32721,Close Friend,Yes,Good,8,Yes
+5549,Close Friend,Yes,Good,1,Yes
+42415,Acquaintance,No,Average,10,No
+48364,Close Friend,Yes,Average,7,Yes
+2567,Close Friend,Yes,Average,7,Yes
+38370,Family,Yes,Poor,1,No
+16492,Acquaintance,Yes,Average,9,Yes
+2210,Acquaintance,Yes,Good,8,Yes
+46950,Acquaintance,Yes,Good,4,No
+2971,Acquaintance,Yes,Poor,10,Yes
+46985,Family,Yes,Good,5,Yes
+21367,Family,Yes,Poor,2,No
+11979,Close Friend,Yes,Poor,9,Yes
+2879,Close Friend,Yes,Good,6,Yes
+46770,Close Friend,Yes,Average,3,Yes
+28653,Close Friend,No,Poor,7,Yes
+24746,Family,Yes,Average,9,Yes
+38477,Acquaintance,Yes,Poor,3,No
+23338,Family,Yes,Poor,2,No
+25886,Close Friend,Yes,Good,7,Yes
+21305,Family,No,Good,7,Yes
+3997,Acquaintance,Yes,Poor,4,No
+22409,Acquaintance,No,Average,9,No
+46224,Family,Yes,Good,8,Yes
+33996,Family,Yes,Good,1,No
+20890,Family,Yes,Average,1,No
+4745,Close Friend,No,Poor,5,Yes
+44074,Family,Yes,Poor,6,No
+4565,Family,Yes,Average,3,Yes
+41924,Family,No,Good,9,Yes
+40828,Acquaintance,Yes,Good,10,Yes
+45535,Acquaintance,Yes,Poor,6,No
+19840,Close Friend,Yes,Good,4,Yes
+17439,Close Friend,No,Good,7,Yes
+6903,Acquaintance,Yes,Good,8,Yes
+14383,Acquaintance,No,Average,9,No
+47343,Acquaintance,No,Poor,6,Yes
+3446,Family,Yes,Good,6,Yes
+8764,Family,Yes,Good,8,Yes
+10687,Acquaintance,Yes,Average,5,Yes
+5905,Family,Yes,Poor,3,No
+19748,Family,No,Good,3,No
+30756,Close Friend,No,Good,6,No
+49387,Acquaintance,Yes,Good,2,No
+48414,Acquaintance,Yes,Poor,6,Yes
+32362,Family,Yes,Good,6,Yes
+39800,Acquaintance,Yes,Good,8,Yes
+41929,Close Friend,Yes,Average,7,Yes
+5610,Close Friend,Yes,Average,8,Yes
+29134,Close Friend,Yes,Good,9,Yes
+27653,Acquaintance,Yes,Poor,6,Yes
+40774,Acquaintance,Yes,Good,3,Yes
+9017,Acquaintance,Yes,Average,10,No
+45724,Acquaintance,Yes,Good,3,Yes
+37420,Acquaintance,No,Average,1,Yes
+44090,Close Friend,Yes,Good,5,Yes
+40457,Family,No,Poor,4,No
+8218,Close Friend,No,Average,9,Yes
+18599,Acquaintance,Yes,Average,9,No
+43494,Close Friend,No,Average,5,No
+17463,Acquaintance,Yes,Average,10,No
+36222,Acquaintance,Yes,Good,4,No
+43535,Close Friend,Yes,Good,7,Yes
+47212,Acquaintance,Yes,Poor,6,Yes
+32645,Family,Yes,Good,4,Yes
+33838,Acquaintance,Yes,Average,10,Yes
+18721,Family,Yes,Poor,2,No
+3430,Family,Yes,Good,1,Yes
+31226,Acquaintance,Yes,Average,4,Yes
+311,Close Friend,No,Good,4,Yes
+45246,Family,Yes,Average,1,No
+49768,Close Friend,Yes,Good,6,Yes
+709,Family,No,Good,4,No
+200,Acquaintance,Yes,Average,1,No
+10502,Acquaintance,Yes,Poor,1,No
+35753,Family,Yes,Average,1,No
+6112,Acquaintance,Yes,Average,8,No
+19788,Family,No,Good,10,Yes
+26651,Acquaintance,Yes,Average,8,Yes
+34594,Close Friend,No,Good,2,Yes
+32755,Acquaintance,Yes,Poor,7,No
+23103,Close Friend,Yes,Poor,8,No
+579,Acquaintance,Yes,Average,8,Yes
+38220,Close Friend,Yes,Poor,10,No
+34673,Acquaintance,Yes,Good,7,Yes
+36641,Close Friend,No,Average,5,Yes
+45691,Family,No,Good,1,No
+7465,Family,Yes,Poor,9,Yes
+4024,Close Friend,No,Good,7,Yes
+11103,Acquaintance,No,Average,2,Yes
+18080,Close Friend,Yes,Poor,6,Yes
+35787,Acquaintance,Yes,Good,2,No
+16548,Family,Yes,Good,1,Yes
+10739,Acquaintance,Yes,Average,7,No
+34187,Family,Yes,Good,2,Yes
+45027,Acquaintance,Yes,Good,2,Yes
+794,Acquaintance,No,Good,5,No
+27761,Acquaintance,Yes,Good,5,Yes
+40874,Close Friend,Yes,Poor,7,No
+40338,Close Friend,No,Average,1,Yes
+12543,Family,No,Good,8,Yes
+40121,Family,Yes,Good,3,No
+39984,Close Friend,No,Good,4,Yes
+5811,Family,Yes,Good,9,Yes
+19200,Close Friend,Yes,Good,4,Yes
+49699,Acquaintance,Yes,Good,10,Yes
+38764,Family,Yes,Good,5,Yes
+29602,Family,Yes,Average,7,Yes
+10657,Close Friend,Yes,Good,4,Yes
+8726,Family,Yes,Average,1,Yes
+23365,Family,Yes,Average,9,Yes
+22019,Acquaintance,Yes,Average,4,No
+24386,Family,No,Average,9,Yes
+45101,Acquaintance,Yes,Average,6,Yes
+4790,Close Friend,Yes,Poor,1,No
+2378,Family,Yes,Average,3,Yes
+12049,Acquaintance,Yes,Average,2,Yes
+6665,Close Friend,Yes,Poor,9,Yes
+40951,Family,No,Average,1,No
+4505,Close Friend,Yes,Good,9,Yes
+10903,Family,Yes,Good,9,Yes
+25557,Close Friend,Yes,Good,8,Yes
+22396,Close Friend,Yes,Poor,8,Yes
+13413,Acquaintance,Yes,Average,1,No
+32107,Close Friend,Yes,Poor,8,No
+13131,Family,Yes,Average,10,Yes
+10976,Family,Yes,Good,3,No
+33631,Acquaintance,Yes,Good,7,Yes
+28322,Family,Yes,Average,1,No
+49736,Family,No,Average,1,No
+22687,Family,No,Poor,10,Yes
+31299,Close Friend,No,Good,5,No
+31034,Close Friend,Yes,Average,5,Yes
+42685,Family,Yes,Average,8,Yes
+4787,Acquaintance,Yes,Average,7,No
+29759,Close Friend,Yes,Average,8,No
+15348,Acquaintance,Yes,Average,6,No
+2501,Family,Yes,Good,6,Yes
+27246,Family,Yes,Average,2,Yes
+48106,Close Friend,No,Average,6,No
+14609,Family,Yes,Poor,5,Yes
+19518,Close Friend,Yes,Poor,3,No
+3061,Family,Yes,Good,6,No
+48757,Family,No,Good,8,Yes
+49166,Close Friend,Yes,Poor,9,Yes
+21616,Close Friend,Yes,Average,1,Yes
+21709,Close Friend,Yes,Poor,3,No
+886,Family,Yes,Good,3,Yes
+32103,Family,Yes,Average,8,Yes
+4152,Acquaintance,No,Poor,1,No
+15212,Close Friend,Yes,Poor,5,Yes
+39744,Family,Yes,Good,3,No
+7089,Family,Yes,Average,2,No
+7997,Close Friend,Yes,Average,8,No
+39577,Acquaintance,Yes,Good,3,Yes
+28950,Close Friend,Yes,Average,7,No
+37243,Acquaintance,Yes,Average,1,No
+17029,Family,Yes,Poor,6,Yes
+46195,Acquaintance,Yes,Good,3,Yes
+18087,Family,Yes,Good,8,Yes
+26268,Close Friend,Yes,Good,6,Yes
+21146,Close Friend,No,Good,2,No
+8321,Close Friend,Yes,Good,6,Yes
+17224,Acquaintance,Yes,Average,7,No
+14108,Family,No,Good,5,No
+28261,Close Friend,Yes,Poor,3,No
+37955,Close Friend,No,Poor,4,No
+47040,Family,Yes,Average,4,Yes
+25955,Close Friend,No,Poor,6,No
+25326,Family,Yes,Average,10,Yes
+32227,Family,Yes,Average,1,Yes
+8318,Family,Yes,Good,4,Yes
+5959,Family,No,Good,10,Yes
+1160,Family,No,Average,4,Yes
+23954,Acquaintance,Yes,Poor,10,Yes
+34709,Close Friend,Yes,Good,1,Yes
+9214,Acquaintance,No,Poor,9,Yes
+1091,Close Friend,Yes,Average,4,Yes
+29315,Acquaintance,No,Good,7,No
+16906,Family,No,Poor,3,No
+46185,Close Friend,Yes,Average,10,No
+7815,Close Friend,Yes,Good,3,Yes
+5247,Acquaintance,Yes,Average,8,Yes
+49721,Acquaintance,Yes,Good,8,No
+20066,Close Friend,No,Average,1,Yes
+45553,Acquaintance,Yes,Good,10,Yes
+49022,Acquaintance,No,Good,2,No
+45962,Acquaintance,Yes,Poor,8,Yes
+3353,Family,No,Average,1,Yes
+13510,Family,Yes,Good,8,Yes
+29385,Acquaintance,Yes,Good,8,Yes
+9672,Acquaintance,Yes,Poor,2,No
+16974,Family,No,Good,4,Yes
+47903,Family,Yes,Good,6,No
+8140,Close Friend,No,Good,9,Yes
+19541,Close Friend,Yes,Good,8,Yes
+1689,Family,Yes,Poor,8,Yes
+3516,Acquaintance,Yes,Average,7,Yes
+13294,Acquaintance,Yes,Good,9,Yes
+7263,Acquaintance,Yes,Average,2,No
+19138,Acquaintance,No,Good,3,Yes
+27942,Close Friend,No,Poor,10,No
+9445,Family,No,Poor,8,Yes
+44088,Acquaintance,No,Good,6,Yes
+13306,Close Friend,Yes,Poor,10,Yes
+30455,Acquaintance,Yes,Average,9,Yes
+13255,Family,Yes,Good,10,Yes
+29134,Close Friend,No,Good,4,Yes
+29909,Family,Yes,Good,8,Yes
+43929,Family,Yes,Average,10,Yes
+43235,Close Friend,Yes,Poor,3,No
+35257,Close Friend,Yes,Average,3,Yes
+29232,Close Friend,No,Poor,8,Yes
+26221,Close Friend,No,Average,5,No
+37230,Close Friend,Yes,Poor,3,No
+26656,Close Friend,No,Average,10,Yes
+38659,Close Friend,Yes,Good,1,Yes
+23059,Acquaintance,Yes,Average,3,No
+14079,Family,Yes,Poor,9,Yes
+32590,Close Friend,Yes,Good,5,Yes
+31853,Acquaintance,Yes,Poor,10,Yes
+2859,Acquaintance,No,Good,2,Yes
+40168,Acquaintance,Yes,Average,7,Yes
+23299,Family,No,Poor,2,No
+44700,Close Friend,Yes,Good,4,Yes
+35267,Acquaintance,Yes,Good,7,No
+9833,Family,Yes,Good,4,Yes
+41985,Family,Yes,Poor,7,Yes
+9550,Family,Yes,Good,7,Yes
+16374,Acquaintance,No,Poor,1,No
+4621,Close Friend,Yes,Good,6,Yes
+27673,Acquaintance,Yes,Poor,9,Yes
+38656,Acquaintance,Yes,Poor,2,No
+30987,Close Friend,Yes,Good,3,Yes
+29178,Close Friend,Yes,Average,10,Yes
+49125,Close Friend,Yes,Good,5,Yes
+25481,Family,Yes,Average,9,Yes
+22697,Close Friend,Yes,Good,4,Yes
+861,Acquaintance,Yes,Good,1,Yes
+18081,Close Friend,Yes,Good,4,Yes
+6843,Acquaintance,Yes,Good,6,Yes
+11948,Family,Yes,Good,5,Yes
+35205,Acquaintance,No,Average,1,Yes
+26154,Acquaintance,Yes,Poor,4,No
+4010,Close Friend,Yes,Good,6,Yes
+5062,Close Friend,Yes,Average,10,Yes
+35516,Acquaintance,No,Good,10,No
+28084,Close Friend,Yes,Poor,4,No
+38165,Family,Yes,Poor,9,Yes
+40780,Family,No,Poor,5,Yes
+32330,Close Friend,Yes,Poor,8,Yes
+38314,Family,Yes,Good,9,Yes
+46257,Close Friend,Yes,Poor,10,Yes
+3923,Acquaintance,Yes,Average,5,No
+17460,Acquaintance,No,Good,6,Yes
+24117,Family,No,Poor,1,No
+20774,Close Friend,Yes,Good,7,Yes
+43414,Close Friend,Yes,Average,4,Yes
+20501,Family,Yes,Good,2,Yes
+38504,Acquaintance,Yes,Good,5,Yes
+3383,Family,No,Average,3,Yes
+12171,Acquaintance,Yes,Average,6,No
+32006,Close Friend,Yes,Good,8,Yes
+27132,Acquaintance,No,Good,7,No
+34860,Family,Yes,Poor,3,No
+27360,Close Friend,Yes,Good,8,Yes
+27482,Family,Yes,Good,2,No
+28771,Family,No,Poor,10,Yes
+25361,Acquaintance,Yes,Poor,9,Yes
+23142,Family,Yes,Good,4,Yes
+49059,Acquaintance,Yes,Average,1,Yes
+15315,Close Friend,Yes,Poor,8,Yes
+9827,Acquaintance,No,Poor,7,Yes
+11271,Close Friend,No,Average,5,No
+427,Acquaintance,Yes,Good,10,Yes
+41586,Family,Yes,Good,5,Yes
+20368,Acquaintance,Yes,Good,7,Yes
+3277,Acquaintance,Yes,Average,5,Yes
+17219,Close Friend,Yes,Good,8,Yes
+24062,Family,No,Average,6,Yes
+38523,Acquaintance,Yes,Good,5,No
+26102,Family,Yes,Good,9,Yes
+11348,Acquaintance,Yes,Poor,2,No
+422,Acquaintance,No,Good,1,Yes
+7553,Family,No,Good,8,Yes
+40365,Acquaintance,No,Poor,3,No
+33506,Family,Yes,Good,7,Yes
+23558,Acquaintance,Yes,Average,10,No
+27394,Close Friend,No,Average,8,No
+44435,Family,Yes,Good,6,No
+38766,Acquaintance,Yes,Poor,10,Yes
+18898,Acquaintance,No,Average,9,Yes
+35745,Close Friend,No,Good,7,Yes
+47305,Family,Yes,Good,10,Yes
+48826,Acquaintance,Yes,Good,5,No
+17516,Close Friend,Yes,Poor,8,Yes
+20473,Acquaintance,Yes,Good,2,No
+17965,Family,Yes,Average,7,Yes
+37851,Acquaintance,No,Average,4,Yes
+5114,Acquaintance,No,Average,9,Yes
+34921,Acquaintance,No,Good,1,Yes
+23200,Acquaintance,Yes,Good,7,Yes
+7367,Close Friend,No,Average,6,Yes
+32489,Close Friend,No,Good,8,No
+44821,Family,Yes,Good,5,No
+36218,Close Friend,No,Good,1,No
+20160,Close Friend,No,Good,1,No
+5654,Family,Yes,Poor,9,Yes
+43296,Close Friend,Yes,Good,10,Yes
+47330,Close Friend,Yes,Good,6,Yes
+2924,Family,Yes,Good,10,Yes
+21362,Family,Yes,Average,5,No
+46362,Family,No,Average,1,Yes
+44922,Acquaintance,Yes,Good,6,No
+14407,Acquaintance,Yes,Average,6,Yes
+41565,Family,Yes,Average,3,Yes
+46969,Family,Yes,Poor,8,Yes
+738,Family,Yes,Poor,1,No
+708,Acquaintance,Yes,Good,1,No
+39964,Acquaintance,Yes,Good,6,Yes
+47290,Close Friend,Yes,Good,10,Yes
+13933,Close Friend,Yes,Good,1,Yes
+16789,Family,Yes,Poor,6,Yes
+7410,Acquaintance,No,Good,1,Yes
+24476,Acquaintance,Yes,Good,6,Yes
+36949,Acquaintance,No,Average,3,No
+4370,Family,Yes,Average,8,Yes
+35280,Close Friend,Yes,Good,6,Yes
+17111,Family,No,Good,1,Yes
+32317,Close Friend,Yes,Good,5,Yes
+5496,Close Friend,Yes,Average,8,Yes
+8345,Family,Yes,Good,3,Yes
+21374,Close Friend,Yes,Good,6,Yes
+37269,Close Friend,Yes,Average,5,Yes
+23586,Acquaintance,Yes,Good,6,No
+31677,Close Friend,Yes,Average,10,Yes
+11140,Family,Yes,Good,1,Yes
+21982,Family,Yes,Good,7,Yes
+40429,Close Friend,No,Poor,9,No
+1177,Acquaintance,No,Average,2,No
+27202,Acquaintance,Yes,Good,10,No
+1072,Close Friend,No,Average,5,No
+18550,Close Friend,Yes,Average,10,Yes
+24254,Family,Yes,Average,4,Yes
+21555,Close Friend,Yes,Good,6,Yes
+21699,Acquaintance,No,Poor,6,Yes
+11184,Close Friend,Yes,Good,2,Yes
+22935,Family,Yes,Good,2,No
+37507,Family,Yes,Good,4,Yes
+9358,Family,No,Good,1,Yes
+23724,Family,No,Poor,9,Yes
+38112,Family,No,Good,7,Yes
+8934,Close Friend,Yes,Good,7,Yes
+37108,Close Friend,Yes,Poor,3,No
+24404,Close Friend,Yes,Good,3,Yes
+6811,Close Friend,Yes,Good,1,Yes
+37624,Family,Yes,Good,3,Yes
+6741,Acquaintance,Yes,Good,3,Yes
+48146,Close Friend,No,Good,4,Yes
+23635,Acquaintance,No,Average,4,No
+17347,Close Friend,No,Good,3,Yes
+35317,Close Friend,No,Good,10,No
+7066,Acquaintance,Yes,Average,8,No
+11526,Family,Yes,Average,8,Yes
+44271,Close Friend,No,Good,1,Yes
+1552,Close Friend,Yes,Average,7,Yes
+21687,Close Friend,No,Good,2,Yes
+46742,Acquaintance,Yes,Good,1,Yes
+39091,Family,Yes,Average,3,No
+27579,Acquaintance,Yes,Good,4,Yes
+23332,Acquaintance,No,Poor,6,Yes
+19075,Family,No,Good,10,Yes
+17934,Acquaintance,Yes,Average,5,Yes
+22566,Family,No,Good,4,No
+26972,Close Friend,Yes,Average,8,No
+28305,Family,Yes,Average,4,No
+13817,Close Friend,Yes,Poor,10,No
+42358,Acquaintance,Yes,Good,2,Yes
+26442,Acquaintance,Yes,Average,3,No
+17759,Close Friend,No,Average,6,Yes
+41469,Acquaintance,No,Average,8,No
+26266,Family,Yes,Average,8,Yes
+40272,Close Friend,Yes,Average,9,No
+37090,Acquaintance,No,Good,7,Yes
+1334,Close Friend,No,Good,2,No
+25741,Family,No,Good,8,Yes
+35919,Family,Yes,Good,7,Yes
+23813,Acquaintance,Yes,Poor,8,No
+19880,Family,Yes,Average,3,Yes
+34588,Close Friend,Yes,Poor,7,No
+6598,Family,Yes,Good,10,Yes
+38079,Close Friend,No,Poor,9,Yes
+26800,Close Friend,Yes,Poor,3,No
+25299,Family,Yes,Average,10,Yes
+28188,Acquaintance,Yes,Average,6,Yes
+28720,Family,Yes,Good,2,Yes
+15495,Close Friend,Yes,Poor,2,No
+44492,Close Friend,Yes,Average,5,Yes
+20662,Family,Yes,Good,5,No
+4758,Acquaintance,No,Good,7,No
+21243,Acquaintance,No,Poor,2,No
+9445,Close Friend,Yes,Poor,7,No
+3719,Close Friend,Yes,Poor,5,Yes
+30365,Acquaintance,No,Average,6,No
+13126,Family,Yes,Good,8,Yes
+25480,Close Friend,Yes,Good,10,Yes
+42354,Close Friend,No,Good,4,Yes
+42928,Acquaintance,Yes,Good,7,No
+39308,Family,Yes,Good,6,Yes
+42966,Acquaintance,Yes,Good,10,Yes
+14693,Family,Yes,Good,2,No
+514,Family,Yes,Poor,8,Yes
+33992,Family,No,Good,10,Yes
+34309,Close Friend,Yes,Poor,9,Yes
+28026,Acquaintance,Yes,Average,5,Yes
+23970,Acquaintance,No,Good,10,Yes
+33601,Family,Yes,Good,4,Yes
+17322,Close Friend,Yes,Good,6,Yes
+37807,Close Friend,No,Good,8,Yes
+46206,Acquaintance,Yes,Average,3,Yes
+49295,Close Friend,No,Good,10,Yes
+2115,Close Friend,No,Good,1,Yes
+36405,Family,Yes,Good,4,No
+45750,Close Friend,Yes,Poor,4,No
+22710,Family,No,Average,1,Yes
+34630,Acquaintance,Yes,Average,9,No
+37688,Close Friend,No,Good,3,No
+20569,Acquaintance,Yes,Average,5,Yes
+27519,Acquaintance,Yes,Average,6,No
+27870,Close Friend,Yes,Average,8,No
+11013,Close Friend,No,Poor,6,No
+21742,Acquaintance,No,Good,3,Yes
+25836,Close Friend,Yes,Poor,6,Yes
+30364,Family,Yes,Poor,1,No
+13853,Family,No,Good,4,No
+44482,Close Friend,Yes,Good,6,Yes
+48539,Acquaintance,Yes,Poor,7,No
+6200,Close Friend,Yes,Good,10,Yes
+17650,Close Friend,Yes,Average,3,No
+38423,Acquaintance,No,Poor,9,Yes
+42366,Acquaintance,Yes,Average,7,No
+44607,Family,Yes,Good,1,No
+40831,Acquaintance,Yes,Average,2,Yes
+3340,Family,No,Good,1,Yes
+19097,Acquaintance,Yes,Average,9,Yes
+41440,Close Friend,Yes,Good,9,Yes
+24514,Family,Yes,Average,7,Yes
+7124,Family,No,Average,10,Yes
+13333,Family,Yes,Average,3,No
+34131,Close Friend,Yes,Average,5,No
+10985,Close Friend,Yes,Average,4,No
+11033,Close Friend,Yes,Average,7,Yes
+21457,Close Friend,Yes,Good,9,Yes
+24943,Close Friend,No,Average,2,Yes
+23969,Family,Yes,Good,8,Yes
+677,Close Friend,No,Poor,9,Yes
+29713,Family,Yes,Good,10,Yes
+9347,Close Friend,No,Good,10,Yes
+46437,Acquaintance,Yes,Average,9,No
+36497,Family,Yes,Good,10,Yes
+19139,Acquaintance,No,Good,7,No
+40261,Family,No,Average,9,Yes
+31931,Acquaintance,Yes,Average,9,No
+33317,Close Friend,Yes,Average,3,No
+27365,Close Friend,No,Good,4,Yes
+37742,Close Friend,Yes,Average,2,Yes
+4845,Family,No,Good,10,Yes
+20169,Acquaintance,No,Average,3,No
+38820,Close Friend,Yes,Average,5,No
+47615,Acquaintance,Yes,Average,5,Yes
+40090,Acquaintance,Yes,Good,6,Yes
+38098,Close Friend,Yes,Good,7,Yes
+13226,Close Friend,Yes,Good,7,Yes
+35557,Acquaintance,No,Good,1,Yes
+31481,Close Friend,Yes,Good,2,Yes
+17318,Close Friend,No,Average,9,No
+27542,Close Friend,Yes,Good,10,Yes
+34359,Family,Yes,Poor,2,No
+45455,Acquaintance,Yes,Good,6,Yes
+5723,Acquaintance,Yes,Average,1,Yes
+49417,Family,Yes,Average,3,Yes
+4814,Acquaintance,Yes,Good,2,Yes
+10146,Close Friend,No,Good,3,No
+19,Acquaintance,Yes,Average,5,Yes
+19265,Close Friend,Yes,Good,10,Yes
+23803,Family,Yes,Poor,6,No
+29558,Close Friend,Yes,Average,9,No
+37902,Acquaintance,Yes,Poor,10,No
+1025,Acquaintance,Yes,Good,4,Yes
+27722,Acquaintance,Yes,Average,7,No
+34971,Family,Yes,Average,6,Yes
+8425,Family,Yes,Average,2,No
+46328,Acquaintance,No,Good,10,No
+47290,Close Friend,Yes,Average,8,Yes
+23843,Family,Yes,Good,7,Yes
+4168,Acquaintance,Yes,Average,7,Yes
+20319,Acquaintance,Yes,Good,8,Yes
+6980,Family,No,Poor,1,No
+6948,Family,Yes,Good,1,Yes
+21178,Family,Yes,Poor,8,Yes
+46550,Close Friend,Yes,Poor,4,No
+20394,Close Friend,Yes,Poor,5,Yes
+18027,Acquaintance,Yes,Average,8,Yes
+10354,Family,Yes,Good,5,Yes
+40044,Close Friend,No,Poor,10,Yes
+8712,Family,Yes,Good,4,Yes
+394,Acquaintance,Yes,Average,6,Yes
+414,Close Friend,Yes,Average,5,Yes
+40953,Close Friend,Yes,Average,7,Yes
+47936,Close Friend,Yes,Good,10,Yes
+29199,Acquaintance,No,Average,7,Yes
+12773,Family,No,Poor,4,No
+18394,Close Friend,Yes,Good,5,Yes
+32616,Acquaintance,No,Poor,3,No
+9870,Family,No,Good,4,Yes
+38767,Acquaintance,No,Good,4,No
+15116,Family,Yes,Good,3,Yes
+23584,Acquaintance,No,Good,10,Yes
+23534,Family,Yes,Poor,5,Yes
+3646,Close Friend,No,Good,5,No
+10926,Family,Yes,Good,7,Yes
+4819,Acquaintance,Yes,Good,4,No
+32211,Acquaintance,No,Average,4,No
+13466,Family,Yes,Average,9,Yes
+48222,Close Friend,No,Good,6,No
+38775,Close Friend,No,Good,4,Yes
+34826,Family,Yes,Poor,2,No
+45116,Family,Yes,Good,6,Yes
+17110,Acquaintance,Yes,Good,2,Yes
+21959,Close Friend,Yes,Good,5,Yes
+4554,Family,Yes,Average,6,No
+37754,Close Friend,No,Good,4,No
+45553,Family,Yes,Average,3,No
+42793,Family,Yes,Good,7,Yes
+26667,Close Friend,No,Poor,2,No
+36197,Family,Yes,Good,6,Yes
+47208,Family,Yes,Average,4,No
+7249,Acquaintance,No,Good,6,Yes
+14499,Family,Yes,Good,4,Yes
+49411,Family,No,Average,4,Yes
+43135,Family,No,Good,4,Yes
+49932,Acquaintance,No,Poor,9,Yes
+28548,Close Friend,Yes,Poor,7,No
+32059,Acquaintance,Yes,Poor,3,No
+37141,Acquaintance,Yes,Good,3,Yes
+42954,Close Friend,No,Average,6,Yes
+8437,Acquaintance,No,Good,6,Yes
+41358,Close Friend,Yes,Poor,4,No
+24295,Acquaintance,Yes,Average,9,Yes
+37636,Close Friend,Yes,Poor,4,No
+42818,Family,Yes,Good,9,Yes
+22938,Acquaintance,No,Average,4,No
+19208,Acquaintance,Yes,Good,2,No
+19768,Acquaintance,No,Average,2,No
+15264,Acquaintance,No,Good,5,No
+44248,Family,Yes,Average,4,No
+1262,Acquaintance,Yes,Average,7,Yes
+39774,Family,Yes,Average,5,No
+12183,Family,Yes,Good,6,Yes
+37451,Family,No,Average,10,Yes
+26708,Family,No,Good,4,Yes
+15791,Close Friend,No,Good,2,Yes
+13061,Close Friend,Yes,Good,10,Yes
+39659,Acquaintance,Yes,Good,9,No
+6959,Close Friend,No,Good,10,No
+42299,Close Friend,Yes,Average,7,Yes
+8027,Acquaintance,Yes,Good,4,No
+6951,Acquaintance,Yes,Good,3,No
+25944,Acquaintance,Yes,Poor,10,Yes
+23396,Close Friend,Yes,Good,3,Yes
+10219,Close Friend,Yes,Average,9,Yes
+17725,Acquaintance,No,Average,5,No
+28930,Family,Yes,Poor,3,No
+31713,Acquaintance,Yes,Average,5,Yes
+42328,Family,Yes,Average,2,No
+4647,Family,No,Poor,4,No
+4864,Acquaintance,Yes,Good,10,Yes
+43098,Acquaintance,Yes,Poor,2,No
+37670,Acquaintance,Yes,Good,2,Yes
+39821,Close Friend,No,Poor,8,No
+49299,Family,Yes,Good,1,No
+19866,Close Friend,No,Average,7,No
+21843,Close Friend,No,Good,5,No
+19973,Acquaintance,Yes,Average,8,No
+36942,Close Friend,No,Good,1,No
+27179,Acquaintance,Yes,Poor,7,Yes
+7951,Family,No,Poor,5,Yes
+14398,Acquaintance,Yes,Good,4,Yes
+5579,Close Friend,No,Poor,7,No
+4310,Close Friend,Yes,Average,10,Yes
+39047,Acquaintance,Yes,Average,2,Yes
+36596,Acquaintance,Yes,Good,1,Yes
+12025,Close Friend,Yes,Good,1,Yes
+45012,Family,Yes,Good,1,No
+6264,Family,Yes,Good,5,No
+17154,Acquaintance,Yes,Poor,10,Yes
+24224,Family,Yes,Good,7,Yes
+40128,Close Friend,No,Poor,2,No
+15193,Acquaintance,Yes,Good,10,No
+6248,Close Friend,Yes,Average,8,Yes
+6100,Close Friend,Yes,Average,4,Yes
+11647,Family,Yes,Poor,3,No
+22425,Acquaintance,No,Good,10,No
+24081,Acquaintance,Yes,Good,8,Yes
+45425,Family,No,Good,2,No
+42689,Close Friend,No,Good,3,Yes
+41250,Close Friend,No,Good,3,Yes
+18281,Close Friend,Yes,Good,10,Yes
+36044,Close Friend,No,Good,1,No
+33444,Acquaintance,No,Average,6,Yes
+4198,Acquaintance,Yes,Good,2,No
+49833,Family,Yes,Good,1,No
+10171,Family,Yes,Good,2,Yes
+28742,Acquaintance,Yes,Average,6,Yes
+11324,Acquaintance,Yes,Poor,4,No
+23964,Close Friend,Yes,Average,6,Yes
+21518,Close Friend,Yes,Average,9,Yes
+21979,Family,Yes,Good,10,Yes
+45669,Acquaintance,Yes,Average,10,Yes
+37555,Family,Yes,Good,8,Yes
+36678,Acquaintance,Yes,Good,1,Yes
+23071,Close Friend,Yes,Average,8,Yes
+13726,Family,Yes,Poor,9,Yes
+39759,Family,No,Good,6,Yes
+39154,Acquaintance,Yes,Average,10,No
+16917,Close Friend,Yes,Average,5,No
+18787,Family,No,Good,6,No
+27703,Close Friend,Yes,Good,6,Yes
+42938,Family,Yes,Good,9,Yes
+26339,Close Friend,No,Good,4,Yes
+46902,Acquaintance,No,Good,2,No
+16292,Family,Yes,Good,9,Yes
+23634,Family,Yes,Good,2,Yes
+23331,Close Friend,No,Average,10,No
+10498,Close Friend,Yes,Average,9,No
+22584,Family,Yes,Poor,2,No
+5250,Acquaintance,No,Good,8,Yes
+43231,Close Friend,Yes,Average,9,No
+10488,Close Friend,Yes,Poor,10,No
+45172,Close Friend,Yes,Average,9,No
+19272,Family,No,Good,10,Yes
+4442,Family,Yes,Average,9,Yes
+29731,Family,Yes,Good,2,No
+13578,Family,Yes,Good,4,Yes
+14188,Acquaintance,Yes,Average,7,Yes
+22205,Acquaintance,Yes,Average,2,Yes
+312,Family,No,Good,1,No
+17032,Acquaintance,Yes,Poor,3,No
+65,Close Friend,Yes,Average,4,Yes
+45791,Close Friend,No,Good,8,No
+8727,Close Friend,Yes,Poor,6,Yes
+28709,Family,No,Good,2,Yes
+8160,Close Friend,Yes,Poor,9,Yes
+2135,Acquaintance,Yes,Average,2,No
+44257,Family,Yes,Good,5,Yes
+48523,Acquaintance,No,Average,4,Yes
+16758,Close Friend,Yes,Average,7,Yes
+39587,Close Friend,Yes,Average,8,Yes
+4631,Close Friend,Yes,Poor,5,Yes
+15044,Family,Yes,Average,10,Yes
+46401,Acquaintance,Yes,Average,5,No
+5136,Family,No,Poor,2,No
+5132,Family,Yes,Average,8,Yes
+18040,Close Friend,No,Good,2,Yes
+17312,Family,Yes,Poor,10,Yes
+19191,Family,Yes,Good,6,Yes
+38648,Close Friend,Yes,Average,8,No
+1541,Family,Yes,Poor,6,No
+40950,Close Friend,No,Average,4,No
+40451,Close Friend,No,Average,4,Yes
+23343,Close Friend,Yes,Average,6,No
+39660,Close Friend,Yes,Good,4,Yes
+34684,Family,Yes,Poor,8,Yes
+35864,Close Friend,No,Good,9,No
+46281,Close Friend,Yes,Good,1,Yes
+8162,Family,Yes,Good,4,No
+38528,Family,No,Average,4,Yes
+45550,Acquaintance,Yes,Average,2,Yes
+10277,Family,Yes,Poor,6,No
+25299,Family,Yes,Good,3,Yes
+1072,Acquaintance,No,Good,7,Yes
+29936,Family,Yes,Good,5,No
+6239,Family,Yes,Good,4,No
+49287,Family,Yes,Average,5,Yes
+47925,Family,Yes,Good,8,Yes
+4642,Acquaintance,Yes,Good,3,No
+39066,Family,Yes,Good,7,Yes
+3606,Family,Yes,Good,6,Yes
+44253,Acquaintance,Yes,Good,1,Yes
+6178,Close Friend,Yes,Good,7,Yes
+42573,Acquaintance,Yes,Average,7,No
+7571,Close Friend,No,Poor,1,No
+8268,Acquaintance,Yes,Average,9,Yes
+16626,Acquaintance,No,Poor,6,Yes
+26744,Family,No,Good,2,No
+6381,Close Friend,Yes,Average,5,Yes
+26079,Family,Yes,Poor,4,No
+14379,Close Friend,Yes,Good,7,Yes
+12920,Acquaintance,Yes,Poor,8,Yes
+7953,Acquaintance,Yes,Good,1,No
+12209,Close Friend,Yes,Good,5,Yes
+15738,Family,Yes,Good,3,No
+23285,Family,No,Average,1,No
+6748,Family,Yes,Average,3,No
+15923,Family,No,Average,6,Yes
