@@ -40,3 +40,7 @@ preprocessor.pkl: Preprocessor used to clean and process input data for predicti
 
 This model and dataset are purely for demonstration purposes. The predictions are based on simulated data and should not be taken as real-world advice or reflective of any actual friend’s intentions.
 This app does not suggest any real-world data, nor should you take its predictions personally. It is important to consider other factors and context when dealing with real-life financial situations.
+
+![Screenshot 2025-01-30 at 11 50 55 PM](https://github.com/user-attachments/assets/44913daf-b38f-4ea5-a331-e777007fbf78)
+![Screenshot 2025-01-30 at 11 51 40 PM](https://github.com/user-attachments/assets/a94020ea-d34c-46f5-be1d-e5e613f4eabe)
+
